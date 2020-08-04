@@ -1,7 +1,7 @@
 import React, { useState, } from 'react';
 
-import dbs from '../../data';
-import { Pomo, } from '../../models/types';
+import dbs from '@/data';
+import { Pomo, } from '@/models/types';
 
 interface DbTestProps {
 
